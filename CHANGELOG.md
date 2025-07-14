@@ -1,4 +1,5 @@
-## 1.0.0
+## [1.0.0+1] - Initial Release
 
-- Initial release.
-- Added `.h(context)` and `.w(context)` extensions for responsive sizing.
+- Added `.h(context)` and `.w(context)` extensions.
+- Helps with easy responsive sizing in Flutter.
+
