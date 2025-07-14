@@ -2,8 +2,10 @@ name: responsive_sizer_plus
 description: "A Flutter extension package to make responsive UI with .h(context) and .w(context) easier."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
-publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
+homepage: https://github.com/vinayparihar26/responsive_sizer_plus
+repository: https://github.com/vinayparihar26/responsive_sizer_plus
+issue_tracker: https://github.com/vinayparihar26/responsive_sizer_plus/issues
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
 # followed by an optional build number separated by a +.
