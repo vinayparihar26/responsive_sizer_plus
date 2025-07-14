@@ -1,0 +1,15 @@
+
+---
+
+### 📄 4. `LICENSE` (MIT)
+
+```txt
+MIT License
+
+Copyright (c) 2025 Vinay
+
+Permission is hereby granted, free of charge, to any person obtaining a copy...
+
+## 1.0.0
+
+- Initial release with `.h(context)` and `.w(context)` extensions.
